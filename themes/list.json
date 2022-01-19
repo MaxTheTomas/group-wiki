@@ -1,4 +1,5 @@
 [
     { "name": "Стандартная", "id": "_default", "description": "Стандартная тема" },
-    { "name": "Тёмная", "id": "def_black", "description": "Стандартная тёмная тема" }
+    { "name": "Тёмная", "id": "def_black", "description": "Стандартная тёмная тема" },
+    { "name": "Светлая", "id": "def_white", "description": "Стандартная светлая тема" }
 ]
