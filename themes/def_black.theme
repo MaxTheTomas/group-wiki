@@ -1,9 +1,9 @@
 --text-color: #f9f9f9;
 --link-color: #ddd;
---body-background: #000;
---sidebar-background: #000;
+--body-background: #111;
+--sidebar-background: #252525;
 --sidebar-item-background: transparent;
---sidebar-item-background-hover: #111;
+--sidebar-item-background-hover: #333;
 --input-text-color: black;
 --file-background: #020202;
 --file-author: #999;  
